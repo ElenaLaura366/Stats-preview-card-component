@@ -74,8 +74,76 @@ select {
     }
 }
 
+html { font-size: 62.5%; }
+
 /* my  code*/
 
 body{
+    background: hsl(233, 47%, 7%);
     font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    width: 80%;
+}
+
+/* the left side*/
+
+.left_part{
+    background: hsl(244, 38%, 16%);
+    border-radius: 1rem 0 0 1rem;
+    width: 50%;
+    padding: 5rem 9rem 5rem 5rem;
+}
+
+.left_part h1{
+    color: hsl(0, 0%, 100%);
+}
+
+.left_part p{
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+/*headline*/
+
+.headline{
+    font-size: 3.5rem;
+    line-height: 5rem;
+}
+
+.left_part .headline .colored-word{
+    color: hsl(277, 64%, 61%);
+}
+
+.left_part .main_paragraf{
+    margin: 2rem 0 5rem 0;
+    font-size: 1.5rem;
+    font-weight: 400;
+    letter-spacing: 0.05rem;
+}
+
+/* footer */
+
+.left_part footer{
+    display: flex;
+}
+
+.left_part footer div{
+    width: 50%;
+}
+
+.left_part footer p{
+    color: hsla(0, 0%, 100%, 0.6);
+    text-transform: uppercase;
+    letter-spacing: 0.15rem;
+}
+
+/* the right part */
+
+.right_part{
+    border-radius: 0 1rem 1rem 0;
 }
