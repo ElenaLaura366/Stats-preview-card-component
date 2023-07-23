@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ElenaLaura366/Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://stats-preview-card-component-eight-alpha.vercel.app)
+- Solution URL: [Repostory](https://github.com/ElenaLaura366/Stats-preview-card-component)
+- Live Site URL: [Live website](https://stats-preview-card-component-eight-alpha.vercel.app)
 
 ### Built with
 
@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for the flex box. I realy liked the way the things are explicated and I understood everything. I'd recommend it to anyone still learning this concept.
+- [css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for the flexbox. I really liked the way things were explained and I understood everything. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Frontend Mentor - [ElenaLaura366](https://www.frontendmentor.io/profile/ElenaLaura366)
-- GitHub - [ElenaLaura366](https://github.com/ElenaLaura366)
+- Frontend Mentor - [@ElenaLaura366](https://www.frontendmentor.io/profile/ElenaLaura366)
+- GitHub - [@ElenaLaura366](https://github.com/ElenaLaura366)
